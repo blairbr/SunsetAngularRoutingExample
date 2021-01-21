@@ -1,4 +1,4 @@
-#Setup Steps
+## Setup Steps
 
 Document with all the steps: https://docs.google.com/document/d/10_cZEKe5kkG2n4PaP5kvKV3xxjPCP4K7fnlSELG1JXo/
 
