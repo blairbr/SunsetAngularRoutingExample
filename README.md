@@ -1,3 +1,22 @@
+#Setup Steps
+
+Steps to Add Routing
+	
+Add Angular routing to a new project via the prompts 🗸
+Configure the routes (in app-routing.module.ts)🗸
+Add a router outlet (to app.component.html)🗸
+Links (in navbar)🗸
+
+Generate Components 
+
+Home
+Navbar
+Sunrise
+Sunset
+PageNotFound
+ng generate component home
+ng generate component navbar  etc
+
 # SunsetRouting
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
